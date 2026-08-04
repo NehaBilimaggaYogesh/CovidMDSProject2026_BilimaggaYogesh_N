@@ -1,0 +1,41 @@
+location,random_intercept,country,period
+Victoria,1.2764,Australia,Before
+New South Wales,0.5609,Australia,Before
+Australian Capital Territory,-0.0314,Australia,Before
+Queensland,-0.0449,Australia,Before
+South Australia,-0.1371,Australia,Before
+Western Australia,-0.37,Australia,Before
+Tasmania,-0.4728,Australia,Before
+Northern Territory,-0.7853,Australia,Before
+New South Wales,0.8379,Australia,After
+Victoria,0.7114,Australia,After
+South Australia,0.4272,Australia,After
+Australian Capital Territory,0.4047,Australia,After
+Queensland,0.011,Australia,After
+Northern Territory,-0.697,Australia,After
+Western Australia,-0.7944,Australia,After
+Tasmania,-0.9155,Australia,After
+London,0.3787,UK,Before
+Scotland,0.1779,UK,Before
+West Midlands,0.1107,UK,Before
+East of England,0.001,UK,Before
+East Midlands,-0.0087,UK,Before
+North West,-0.0245,UK,Before
+Northern Ireland,-0.0265,UK,Before
+Wales,-0.0628,UK,Before
+North East,-0.0841,UK,Before
+South West,-0.1216,UK,Before
+South East,-0.1263,UK,Before
+Yorkshire and the Humber,-0.218,UK,Before
+Northern Ireland,0.2681,UK,After
+Scotland,0.2676,UK,After
+London,0.1753,UK,After
+West Midlands,-0.0024,UK,After
+North East,-0.016,UK,After
+Wales,-0.031,UK,After
+East of England,-0.0364,UK,After
+North West,-0.0869,UK,After
+South West,-0.087,UK,After
+South East,-0.1009,UK,After
+East Midlands,-0.1292,UK,After
+Yorkshire and the Humber,-0.2291,UK,After

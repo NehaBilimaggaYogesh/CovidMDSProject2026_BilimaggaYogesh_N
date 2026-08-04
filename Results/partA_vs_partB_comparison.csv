@@ -1,0 +1,17 @@
+Country,Period,Model,AUC_PartA,AUC_PartB,Change
+Australia,Before,Logistic Regression,0.69,0.69,0
+Australia,Before,Classification Tree,0.645,0.645,0
+Australia,Before,Random Forest,0.742,0.742,0
+Australia,Before,XGBoost (40 bins),0.513,0.735,0.222
+Australia,After,Logistic Regression,0.759,0.74,-0.019
+Australia,After,Classification Tree,0.71,0.676,-0.034
+Australia,After,Random Forest,0.817,0.809,-0.008
+Australia,After,XGBoost (40 bins),0.619,0.799,0.18
+UK,Before,Logistic Regression,0.64,0.626,-0.014
+UK,Before,Classification Tree,0.612,0.586,-0.026
+UK,Before,Random Forest,0.633,0.607,-0.026
+UK,Before,XGBoost (40 bins),0.588,0.613,0.025
+UK,After,Logistic Regression,0.734,0.729,-0.005
+UK,After,Classification Tree,0.66,0.648,-0.012
+UK,After,Random Forest,0.742,0.733,-0.009
+UK,After,XGBoost (40 bins),0.583,0.737,0.154

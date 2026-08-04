@@ -1,0 +1,46 @@
+country,period,term,odds_ratio,OR_lower,OR_upper,p.value
+Australia,After,age,1.01,1.006,1.013,0
+Australia,After,genderMale,0.663,0.606,0.725,0
+Australia,After,household_size3,1.407,1.219,1.623,0
+Australia,After,household_size4,1.414,1.214,1.646,0
+Australia,After,gov_handling_num,1.17,1.106,1.237,0
+Australia,After,i9_health_num,1.455,1.301,1.628,0
+Australia,After,i11_health_num,1.879,1.788,1.974,0
+Australia,After,employment_statusUnemployed,1.293,1.089,1.534,0.0033
+Australia,After,week_num,0.991,0.984,0.999,0.0319
+Australia,After,household_size2,1.135,1.007,1.279,0.0375
+Australia,After,PHQ4_total,1.015,1.001,1.03,0.0381
+Australia,Before,genderMale,0.771,0.725,0.82,0
+Australia,Before,household_size3,1.284,1.16,1.421,0
+Australia,Before,cantril_ladder,1.048,1.03,1.067,0
+Australia,Before,PHQ4_total,1.049,1.039,1.06,0
+Australia,Before,gov_handling_num,1.175,1.123,1.229,0
+Australia,Before,week_num,1.014,1.01,1.018,0
+Australia,Before,i9_health_num,1.348,1.24,1.466,0
+Australia,Before,i11_health_num,1.392,1.338,1.448,0
+Australia,Before,employment_statusNot working,0.815,0.731,0.909,2e-4
+Australia,Before,household_size4,1.233,1.106,1.374,2e-4
+Australia,Before,household_size5,1.28,1.109,1.477,7e-4
+Australia,Before,household_size8 or more,1.948,1.266,2.996,0.0024
+Australia,Before,household_size6,1.369,1.101,1.702,0.0047
+Australia,Before,age,1.003,1.001,1.006,0.0071
+Australia,Before,household_size7,1.698,1.135,2.54,0.01
+UK,After,age,1.012,1.009,1.014,0
+UK,After,genderMale,0.545,0.514,0.577,0
+UK,After,employment_statusNot working,0.68,0.608,0.761,0
+UK,After,employment_statusUnemployed,0.696,0.617,0.785,0
+UK,After,household_size2,1.255,1.163,1.355,0
+UK,After,PHQ4_total,1.046,1.036,1.056,0
+UK,After,gov_trust_num,1.284,1.239,1.331,0
+UK,After,week_num,0.985,0.983,0.987,0
+UK,After,i9_health_num,1.848,1.709,1.999,0
+UK,After,i11_health_num,1.674,1.628,1.721,0
+UK,After,household_size3,1.171,1.068,1.284,8e-4
+UK,After,household_size4,1.138,1.03,1.257,0.0113
+UK,After,household_sizePrefer not to say,1.445,1.069,1.955,0.0168
+UK,After,gov_handling_num,0.965,0.935,0.997,0.0295
+UK,After,household_size7,0.682,0.472,0.984,0.0409
+UK,Before,genderMale,0.605,0.544,0.673,0
+UK,Before,week_num,1.141,1.117,1.166,0
+UK,Before,i11_health_num,1.339,1.254,1.43,0
+UK,Before,PHQ4_total,1.038,1.019,1.058,1e-4

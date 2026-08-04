@@ -1,0 +1,10 @@
+Experiment,What_Changed,N_Runs,N_Trees,Sample,Median_AUC,Time_Mins
+1 - Vary trees,Number of trees,1000,50,50%,0.893,12.5
+1 - Vary trees,Number of trees,1000,150,50%,0.898,36.8
+1 - Vary trees,Number of trees,1000,250,50%,0.899,62.78
+2 - Vary runs,Number of runs,1000,50,50%,0.893,17.4
+2 - Vary runs,Number of runs,5000,50,50%,0.893,69.07
+2 - Vary runs,Number of runs,10000,50,50%,0.893,133.14
+3 - Vary sample,Sample percentage,1000,50,50%,0.893,13.54
+3 - Vary sample,Sample percentage,1000,50,65%,0.933,18.07
+3 - Vary sample,Sample percentage,1000,50,80%,0.964,22.7

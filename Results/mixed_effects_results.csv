@@ -1,0 +1,95 @@
+country,period,term,odds_ratio,OR_lower,OR_upper,p.value
+Australia,Before,(Intercept),0.065,0.039,0.109,0
+Australia,Before,age,1.003,1.001,1.006,0.0071
+Australia,Before,genderMale,0.771,0.725,0.82,0
+Australia,Before,employment_statusNot working,0.815,0.731,0.909,2e-4
+Australia,Before,employment_statusPart time employment,0.949,0.873,1.031,0.2153
+Australia,Before,employment_statusRetired,0.922,0.831,1.022,0.1231
+Australia,Before,employment_statusUnemployed,0.991,0.889,1.104,0.8633
+Australia,Before,household_size2,1.056,0.97,1.149,0.2083
+Australia,Before,household_size3,1.284,1.16,1.421,0
+Australia,Before,household_size4,1.233,1.106,1.374,2e-4
+Australia,Before,household_size5,1.28,1.109,1.477,7e-4
+Australia,Before,household_size6,1.369,1.101,1.702,0.0047
+Australia,Before,household_size7,1.698,1.135,2.54,0.01
+Australia,Before,household_size8 or more,1.948,1.266,2.996,0.0024
+Australia,Before,household_sizeDon't know,1.113,0.671,1.849,0.678
+Australia,Before,household_sizePrefer not to say,1.087,0.76,1.556,0.6467
+Australia,Before,cantril_ladder,1.048,1.03,1.067,0
+Australia,Before,PHQ4_total,1.049,1.039,1.06,0
+Australia,Before,gov_trust_num,1.028,0.978,1.082,0.2771
+Australia,Before,gov_handling_num,1.175,1.123,1.229,0
+Australia,Before,week_num,1.014,1.01,1.018,0
+Australia,Before,i9_health_num,1.348,1.24,1.466,0
+Australia,Before,i11_health_num,1.392,1.338,1.448,0
+Australia,After,(Intercept),0.11,0.056,0.218,0
+Australia,After,age,1.01,1.006,1.013,0
+Australia,After,genderMale,0.663,0.606,0.725,0
+Australia,After,employment_statusNot working,1.025,0.879,1.196,0.7514
+Australia,After,employment_statusPart time employment,0.98,0.873,1.101,0.7371
+Australia,After,employment_statusRetired,1.023,0.88,1.19,0.7655
+Australia,After,employment_statusUnemployed,1.293,1.089,1.534,0.0033
+Australia,After,household_size2,1.135,1.007,1.279,0.0375
+Australia,After,household_size3,1.407,1.219,1.623,0
+Australia,After,household_size4,1.414,1.214,1.646,0
+Australia,After,household_size5,1.148,0.942,1.399,0.1705
+Australia,After,household_size6,1.293,0.93,1.796,0.1264
+Australia,After,household_size7,0.891,0.551,1.44,0.6374
+Australia,After,household_size8 or more,0.92,0.514,1.644,0.7773
+Australia,After,household_sizeDon't know,0.777,0.382,1.579,0.4856
+Australia,After,household_sizePrefer not to say,0.802,0.537,1.199,0.2818
+Australia,After,cantril_ladder,1.021,0.995,1.047,0.1118
+Australia,After,PHQ4_total,1.015,1.001,1.03,0.0381
+Australia,After,gov_trust_num,1.056,0.991,1.124,0.091
+Australia,After,gov_handling_num,1.17,1.106,1.237,0
+Australia,After,week_num,0.991,0.984,0.999,0.0319
+Australia,After,i9_health_num,1.455,1.301,1.628,0
+Australia,After,i11_health_num,1.879,1.788,1.974,0
+UK,Before,(Intercept),0.062,0.037,0.106,0
+UK,Before,age,1.002,0.998,1.007,0.2959
+UK,Before,genderMale,0.605,0.544,0.673,0
+UK,Before,employment_statusNot working,0.95,0.773,1.167,0.6236
+UK,Before,employment_statusOther,0.94,0.68,1.3,0.7091
+UK,Before,employment_statusPart time employment,0.953,0.81,1.122,0.5661
+UK,Before,employment_statusRetired,1.073,0.892,1.291,0.4532
+UK,Before,employment_statusUnemployed,0.998,0.773,1.288,0.986
+UK,Before,household_size2,1.093,0.946,1.263,0.2285
+UK,Before,household_size3,1.07,0.899,1.274,0.4458
+UK,Before,household_size4,0.939,0.777,1.134,0.5112
+UK,Before,household_size5,1.153,0.881,1.51,0.2994
+UK,Before,household_size6,1.31,0.86,1.995,0.2083
+UK,Before,household_size7,1.455,0.636,3.326,0.3744
+UK,Before,household_size8 or more,1.514,0.568,4.036,0.4074
+UK,Before,household_sizeDon't know,0.683,0.216,2.163,0.5171
+UK,Before,household_sizePrefer not to say,1.081,0.604,1.936,0.7923
+UK,Before,cantril_ladder,1.004,0.971,1.038,0.8216
+UK,Before,PHQ4_total,1.038,1.019,1.058,1e-4
+UK,Before,gov_trust_num,1.023,0.95,1.103,0.5454
+UK,Before,gov_handling_num,1.04,0.982,1.101,0.1788
+UK,Before,week_num,1.141,1.117,1.166,0
+UK,Before,i9_health_num,1.056,0.872,1.279,0.5747
+UK,Before,i11_health_num,1.339,1.254,1.43,0
+UK,After,(Intercept),0.299,0.234,0.382,0
+UK,After,age,1.012,1.009,1.014,0
+UK,After,genderMale,0.545,0.514,0.577,0
+UK,After,employment_statusNot working,0.68,0.608,0.761,0
+UK,After,employment_statusOther,1.061,0.887,1.269,0.5187
+UK,After,employment_statusPart time employment,0.93,0.852,1.015,0.1036
+UK,After,employment_statusRetired,0.936,0.846,1.036,0.2002
+UK,After,employment_statusUnemployed,0.696,0.617,0.785,0
+UK,After,household_size2,1.255,1.163,1.355,0
+UK,After,household_size3,1.171,1.068,1.284,8e-4
+UK,After,household_size4,1.138,1.03,1.257,0.0113
+UK,After,household_size5,1.091,0.945,1.259,0.2371
+UK,After,household_size6,0.875,0.697,1.098,0.2488
+UK,After,household_size7,0.682,0.472,0.984,0.0409
+UK,After,household_size8 or more,1.094,0.685,1.747,0.7072
+UK,After,household_sizeDon't know,1.512,0.902,2.533,0.1168
+UK,After,household_sizePrefer not to say,1.445,1.069,1.955,0.0168
+UK,After,cantril_ladder,1.012,0.995,1.029,0.1831
+UK,After,PHQ4_total,1.046,1.036,1.056,0
+UK,After,gov_trust_num,1.284,1.239,1.331,0
+UK,After,gov_handling_num,0.965,0.935,0.997,0.0295
+UK,After,week_num,0.985,0.983,0.987,0
+UK,After,i9_health_num,1.848,1.709,1.999,0
+UK,After,i11_health_num,1.674,1.628,1.721,0

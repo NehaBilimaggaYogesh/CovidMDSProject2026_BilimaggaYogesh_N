@@ -1,0 +1,17 @@
+Country,Period,Model,AUC,Accuracy
+Australia,Before,Logistic Regression,0.69,0.633
+Australia,Before,Classification Tree,0.645,0.627
+Australia,Before,Random Forest,0.742,0.684
+Australia,Before,XGBoost (40 bins),0.735,0.654
+Australia,After,Logistic Regression,0.74,0.715
+Australia,After,Classification Tree,0.676,0.699
+Australia,After,Random Forest,0.809,0.81
+Australia,After,XGBoost (40 bins),0.799,0.755
+UK,Before,Logistic Regression,0.626,0.601
+UK,Before,Classification Tree,0.586,0.57
+UK,Before,Random Forest,0.607,0.581
+UK,Before,XGBoost (40 bins),0.613,0.585
+UK,After,Logistic Regression,0.729,0.715
+UK,After,Classification Tree,0.648,0.696
+UK,After,Random Forest,0.733,0.82
+UK,After,XGBoost (40 bins),0.737,0.732
